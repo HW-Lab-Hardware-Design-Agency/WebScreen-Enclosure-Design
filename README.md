@@ -62,7 +62,7 @@ Make sure your print bed is well-leveled, and the first layer adheres properly t
 For best results, post-processing such as light sanding or acetone smoothing (for ABS) can be applied.
 
 ## License
-This project is open source. See the [LICENSE](https://ohwr.org/project/cernohl/-/wikis/uploads/3eff4154d05e7a0459f3ddbf0674cae4/cern_ohl_p_v2.txt) file for details.
+This project is open source. See the [LICENSE](https://github.com/HW-Lab-Hardware-Design-Agency/WebScreen-Enclosure-Design/blob/main/LICENSE) file for details.
 
 ## Contact
 
