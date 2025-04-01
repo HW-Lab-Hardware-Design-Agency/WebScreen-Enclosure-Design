@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e1c5ad5a-53c3-4542-abdb-d4e6ad252ecb)
+[![License: CERN-OHL-P-2.0](https://img.shields.io/badge/license-CERN_OHL_P_2.0-blue.svg)](https://opensource.org/license/cern-ohl-p) ![Issues](https://img.shields.io/github/issues/HW-Lab-Hardware-Design-Agency/WebScreen-Enclosure-Design) [![image](https://img.shields.io/badge/website-WebScreen.cc-D31027)](https://webscreen.cc) [![image](https://img.shields.io/badge/view_on-CrowdSupply-099)](https://www.crowdsupply.com/hw-media-lab/webscreen)
 # WebScreen-Enclosure-Design
 ## Description
 
@@ -67,3 +67,6 @@ This project is open source. See the [LICENSE](https://github.com/HW-Lab-Hardwar
 ## Contact
 
 For inquiries or contributions, please contact the development team through the repository issues or via email.
+
+![image](https://github.com/user-attachments/assets/e1c5ad5a-53c3-4542-abdb-d4e6ad252ecb)
+
