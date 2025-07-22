@@ -4,7 +4,7 @@
 
 This repository contains design files and technical documentation for the webscreen enclosure. The enclosure has been designed to provide a robust and functional solution, optimizing hardware integration with an improved fastening system using insertion and friction instead of adhesives.
 
-<img width="1049" height="392" alt="image" src="https://github.com/user-attachments/assets/ae35058e-0182-459c-823e-4079145e85c8" />
+<img width="1158" height="519" alt="image" src="https://github.com/user-attachments/assets/703cb6aa-f7b5-494f-8036-f36b3a97d788" />
 
 ## Main Features
 
